@@ -1,0 +1,10 @@
+Flask
+gunicorn
+numpy
+scipy
+scikit-learn
+matplotlib
+pandas
+tensorflow
+scikit-image
+Flask-Cors
